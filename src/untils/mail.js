@@ -2,7 +2,7 @@ import React from 'react';
 
 function sendMail(){
     return (
-        <div>template</div>
+        <div>templat2222e</div>
     )
 }
 
